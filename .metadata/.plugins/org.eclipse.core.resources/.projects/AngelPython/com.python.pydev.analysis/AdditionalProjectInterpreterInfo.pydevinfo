@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\software\python\.metadata\.plugins\org.eclipse.core.resources\.projects\AngelPython\com.python.pydev.analysis\v2_indexcache
+AngelWebCrawl|1546944870973523000|D:\software\python\AngelPython\AngelWebCrawl.py
+Testing|1546942466109780000|D:\software\python\AngelPython\Testing.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=AngelWebCrawl
+1=D:\software\python\AngelPython\AngelWebCrawl.py
+-- END DICTIONARY
+-- START TREE 1
+22
+L|1|L!1^40#5*19@
+are|1|area!1^53#5*19@
+cat|1|cate!1^54#5*19@
+cha|1|chart!1^30#5*19@
+cou|1|countD!1^46#5*19@
+dat|1|data!1^15#1*19@
+f|1|f!1^32#5*19@
+h1|1|h1!1^20#1*19@
+h2|1|h2!1^21#1*19@
+h3|1|h3!1^22#1*19@
+i|1|i!1^47#5*19@
+obj|1|object!1^17#1*19@
+req|1|req!1^31#5*19@
+s|1|s!1^33#5*19@
+sou|1|soup!1^34#5*19@
+ss|1|ss!1^16#1*19@
+t|1|t!1^38#5*19@
+tex|1|text!1^39#5*19@
+url|1|urlNames!1^18#1*19@
+wb|1|wb!1^19#1*19@
+wor|2|wor!1^41#5*19@words!1^45#5*19@
+ws|1|ws!1^26#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
